@@ -15,7 +15,7 @@
     "@strapi/plugin-users-permissions": "4.2.3",
     "@strapi/strapi": "4.2.3",
     "better-sqlite3": "7.4.6",
-    "pg-connection-string": "file:pg-connection-string"
+    "pg-connection-string": "^2.5.0"
   },
   "author": {
     "name": "A Strapi developer"
@@ -24,7 +24,7 @@
     "uuid": "3b497ee5-6773-41ee-ac24-e23aed130694"
   },
   "engines": {
-    "node": ">=12.x.x <=16.x.x",
+    "node": "16.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
